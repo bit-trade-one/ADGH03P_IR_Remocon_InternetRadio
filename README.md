@@ -7,7 +7,7 @@
 また20文字4桁表示可能な大型の液晶ディスプレイを持ちラジオ局情報と曲名を表示可能です。  
 制御ボードはラジオ局情報と曲名をシリアル通信で送信、PICマイコンとGPIOのシリアル通信が学べます！  
 
-## [製品ページ](https://bit-trade-one.co.jp/product/picraspi/adgh06p/)
+## [製品ページ](https://bit-trade-one.co.jp/product/picraspi/adgh03/)
 
 ## 製品仕様
 
